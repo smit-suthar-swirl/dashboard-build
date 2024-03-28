@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkswirl_dashboard=self.webpackChunkswirl_dashboard||[]).push([[468],{35468:(s,r,i)=>{i.r(r),i.d(r,{default:()=>a});i(65043);var e=i(41591),l=i(70579);const a=()=>(0,l.jsxs)(l.Fragment,{children:[(0,l.jsx)(e.m,{children:(0,l.jsx)("title",{children:"SWIRL | Virtual Shopping"})}),(0,l.jsx)("div",{children:"VirtualShopping"})]})}}]);
+//# sourceMappingURL=468.ffa7a831.chunk.js.map
